@@ -51,6 +51,11 @@ I enjoy transforming raw data into meaningful insights that support better busin
 - Calculated fuel efficiency using distance and fuel data.
 - Presented findings through KPIs and visualizations.
 ### Fuel Efficiency Analysis
+## Dashboard Preview
+
+## Dashboard Preview
+![McMoren Logistics Employee Attrition Dashboard](hr-attrition-dashboard-clean.png)
+
 [View Project on GitHub](https://github.com/Zinyumez/FUEL-EFFICIENCY-ANALYSIS/blob/main/POWER%20BI%20fuel%20efficiency%20project.pbi)x
 ### 3. Employee Attrition Analysis
 **Tool:** Power BI
