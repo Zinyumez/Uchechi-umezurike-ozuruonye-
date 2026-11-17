@@ -51,10 +51,8 @@ I enjoy transforming raw data into meaningful insights that support better busin
 - Calculated fuel efficiency using distance and fuel data.
 - Presented findings through KPIs and visualizations.
 ### Fuel Efficiency Analysis
-## Dashboard Preview
 
-## Dashboard Preview
-![McMoren Logistics Employee Attrition Dashboard](hr-attrition-dashboard-clean.png)
+
 
 [View Project on GitHub](https://github.com/Zinyumez/FUEL-EFFICIENCY-ANALYSIS/blob/main/POWER%20BI%20fuel%20efficiency%20project.pbi)x
 ### 3. Employee Attrition Analysis
@@ -62,7 +60,8 @@ I enjoy transforming raw data into meaningful insights that support better busin
 - Explored employee attrition patterns.
 - Developed visual reports and dashboards.
 - Used DAX to analyse workforce trends.
-
+- ## Dashboard Preview
+![McMoren Logistics Employee Attrition Dashboard](hr-attrition-dashboard-clean.png)
 ### 4. Data Analytics Portfolio
 **Tools:** Excel | SQL | Power BI
 - Practical data analysis projects.
