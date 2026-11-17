@@ -36,9 +36,34 @@ I enjoy transforming raw data into meaningful insights that support better busin
 - Business Operations
 - Customer Data Managements 
 
+
 ## 📊 Featured Projects
 
-Coming soon! I'm continuously building practical data analytics projects.
+### 1. Sales Performance Dashboard
+**Tool:** Microsoft Excel
+- Analysed sales performance.
+- Created interactive dashboards.
+- Presented key business performance indicators.
+
+### 2. Fuel Efficiency Analysis
+**Tool:** Microsoft Excel
+- Analysed vehicle fuel consumption.
+- Calculated fuel efficiency using distance and fuel data.
+- Presented findings through KPIs and visualizations.
+
+### 3. Employee Attrition Analysis
+**Tool:** Power BI
+- Explored employee attrition patterns.
+- Developed visual reports and dashboards.
+- Used DAX to analyse workforce trends.
+
+### 4. Data Analytics Portfolio
+**Tools:** Excel | SQL | Power BI
+- Practical data analysis projects.
+- Data cleaning, reporting and visualization.
+
+
+
 
 ## 🎯 Career Goal
 
