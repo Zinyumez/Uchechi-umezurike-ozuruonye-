@@ -34,7 +34,7 @@ I enjoy transforming raw data into meaningful insights that support better busin
 - Data Entry and Reporting
 - Key Account Management
 - Business Operations
-- Customer Data Management
+- Customer Data Managements 
 
 ## 📊 Featured Projects
 
