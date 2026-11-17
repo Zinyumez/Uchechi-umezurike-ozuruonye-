@@ -39,6 +39,13 @@ I enjoy transforming raw data into meaningful insights that support better busin
 
 ## 📊 Featured Projects
 
+## 📊 Featured Projects
+
+### Employee Attrition Analysis – McMoren Logistics
+
+Analyzed employee data to identify attrition patterns and provide insights into employee retention.
+
+[View Project and Dashboard](https://github.com/Zinyumez/ATTRIMTION-RATE)
 ### 1. Sales Performance Dashboard
 **Tool:** Microsoft Excel
 - Analysed sales performance.
