@@ -69,11 +69,18 @@ I enjoy transforming raw data into meaningful insights that support better busin
 
 To leverage data analytics, technology, and problem-solving skills to generate insights and support data-driven decisions across businesses and industries.
 
+
 ## 📫 Let's Connect
 
-- GitHub: You're already here!
-- LinkedIn: Add your LinkedIn profile link here.
+I am open to Data Analyst opportunities, professional collaborations, and networking.
+
+- **GitHub:** [Explore my projects](https://github.com/)
+
+- **Email:** uchevivian081@gmail.com
 
 ---
+
+⭐ Thank you for visiting my portfolio!
+
 
 ⭐ Thank you for visiting my portfolio!
